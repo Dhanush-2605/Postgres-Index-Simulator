@@ -2,6 +2,9 @@
 
 # PostgreSQL 1 Million Row Benchmark 🚀
 
+### Medium Link: https://github.com/Dhanush-2605/Postgres-Index-Simulator
+
+
 A Python-based simulator to stress-test PostgreSQL and measure the exact millisecond impact of B-Tree indexing on a massive dataset. 
 
 This project was built to move beyond the textbook definitions of database performance and actually measure the raw latency differences between **Full Table Scans** and **Index Scans** using high-resolution Python timers.
@@ -31,4 +34,3 @@ Open pgAdmin (or `psql` command line) and create a new, empty database for the t
 CREATE DATABASE db_perf_project;
 
 
-Medium Link: 
