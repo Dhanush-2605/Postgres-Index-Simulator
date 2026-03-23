@@ -2,7 +2,7 @@
 
 # PostgreSQL 1 Million Row Benchmark 🚀
 
-### Medium Link: https://github.com/Dhanush-2605/Postgres-Index-Simulator
+### Medium Link: https://medium.com/@dvellasiri/i-stress-tested-postgresql-with-1-million-rows-here-is-what-i-learned-about-indexing-19648e2ac47c
 
 
 A Python-based simulator to stress-test PostgreSQL and measure the exact millisecond impact of B-Tree indexing on a massive dataset. 
